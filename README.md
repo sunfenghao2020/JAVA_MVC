@@ -1,4 +1,6 @@
 # JAVA_MVC
-![alt](https://github.com/sunfenghao2020/JAVA_MVC/blob/master/model1.png?raw=true)
+<p align="center">
+  <img  width="100" height="100" src="model1.png">
+</p>
 ![alt](model2.png?raw=true)
 ![alt](model3.png?raw=true)
